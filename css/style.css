@@ -1,0 +1,21 @@
+
+
+img {
+  max-width: 100%; 
+}
+
+#gifs {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.image {
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  background-position: center center;
+  margin: 10px;
+  /* width: 150px; */
+}
+
